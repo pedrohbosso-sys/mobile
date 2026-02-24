@@ -39,3 +39,26 @@ Por fim, acessamos a pasta mobile e criamos um arquivo README.md usando o comand
         - IDE: VScode, Android Studios
         - Linguagens: Dart
         - Ambiente: Mac, Win, Linux
+
+## Preparação do Ambiente de Desenvolvimento
+
+## instalação do FlutterSDK
+- download do arquivo ZIP na página flutter.dev
+- inclusão do flutter na pasta C:\src
+- Inclusão do flutter\bin nas variaveis de ambientes
+- teste o flutter --verison
+
+### Instalação do AndroidSDK
+- download do android SDK - command line Tools
+- adicionar o command-line ao c:\src\AndroidSDK
+- adicionar o SDKManager as varáveis de Ambiente
+- download dos pacotes
+    - emulador
+    - platforms
+    - platform-tools
+    - build-tools
+
+- adicionar ADB e o Emulator as Variáveis de Ambiente
+
+- Criação da Imagem do Emulador - via sdkmanager
+- Build do Emulador - via sdkmanager
